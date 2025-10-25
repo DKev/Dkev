@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Kevin (Yuan Ding)
+**Data Scientist | AI Engineer | Distributed Systems**
 
-<!--
-**DKev/Dkev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about bridging AI and real-world applications. I love transforming ideas into reality and uncovering insights through data analysis.
 
-Here are some ideas to get you started:
+## 🧠 Featured Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [ai-portrait-factory](https://github.com/yourrepo) | Generate realistic portraits using SDXL + IPAdapter | PyTorch, diffusers |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🪄 Current Focus
+- Advancing **AI/ML pipelines** and model deployment workflows  
+- Experimenting with **generative imaging** and diffusion-based systems  
+- Building **cross-platform applications** integrating cloud and edge computing  
+- Engineering **AI infrastructure** for scalability and performance
+- 
+
+📫 Reach me at: [LinkedIn](www.linkedin.com/in/yuan-ding-770a0b107) | [Personal Site](https://dingkevin.com)
