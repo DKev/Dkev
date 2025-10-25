@@ -1,19 +1,31 @@
-# 👋 Hi, I'm Kevin (Yuan Ding)
-**Data Scientist | AI Engineer | Distributed Systems**
+<h2 align="center"> 👋 Hi, I'm Kevin (Yuan Ding)
+<h2 align="center">🚀 Data Scientist | AI Engineer | Distributed Systems Developer</h2>
 
-🚀 Passionate about bridging AI and real-world applications. I love transforming ideas into reality and uncovering insights through data analysis.
+<p align="center">
+Passionate about bridging <b>AI</b> and real-world applications. I love transforming ideas into reality and uncovering insights through data analysis.  
+</p>
 
-## 🧠 Featured Projects
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [ai-portrait-factory](https://github.com/yourrepo) | Generate realistic portraits using SDXL + IPAdapter | PyTorch, diffusers |
+---
 
+### 🧠 My Repos
 
-## 🪄 Current Focus
-- Advancing **AI/ML pipelines** and model deployment workflows  
-- Experimenting with **generative imaging** and diffusion-based systems  
-- Building **cross-platform applications** integrating cloud and edge computing  
-- Engineering **AI infrastructure** for scalability and performance
-- 
+| Repo                                                        | Description                                                                         | Tech Stack                         |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------- |
+| 🧩 [Algorithm Lab](https://github.com/yourrepo)             | Solving **LeetCode** and exploring classic algorithms and data structures           | Python · C++ · Problem Solving     |
+| 🏗️ [AI Infrastructure Notes](https://github.com/yourrepo)   | Learning and building **AI Infra** — model serving, scaling, and deployment systems | Docker · Kubernetes · Ray · MLflow |
 
-📫 Reach me at: [LinkedIn](www.linkedin.com/in/yuan-ding-770a0b107) | [Personal Site](https://dingkevin.com)
+---
+
+### 🪄 Current Focus
+- 🧩 Advancing **AI/ML pipelines** and model deployment workflows  
+- 🖼️ Exploring **generative imaging** and diffusion-based creativity  
+- 📱 Building **cross-platform applications** integrating cloud and edge computing  
+- ⚙️ Engineering **AI infrastructure** for scalability and performance  
+
+---
+
+<p align="center">
+📫 <b>Connect:</b>  
+<a href="https://www.linkedin.com/in/yuan-ding-770a0b107">LinkedIn</a> · 
+<a href="https://dingkevin.com">Personal Site</a> · 
+</p>
