@@ -75,15 +75,3 @@ Passionate about bridging <b>AI</b> and <b>real-world applications</b>, turning 
     </td>
   </tr>
 </table>
-
-
----
-
-### 🧠 My Repos
-
-| Repo                                                        | Description                                                                         | Tech Stack                         |
-| ----------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------- |
-| 🧩 [Algorithm Lab](https://github.com/yourrepo)             | Solving **LeetCode** and exploring classic algorithms and data structures           | Python · C++ · Problem Solving     |
-| 🏗️ [AI Infra Notes](https://github.com/yourrepo)            | Learning and building **AI Infra**: model serving, scaling, and deployment systems | Docker · Kubernetes · Ray · MLflow |
-
-
