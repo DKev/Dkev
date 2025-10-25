@@ -1,14 +1,82 @@
-<h2 align="center"> 👋 Hi, I'm Kevin (Yuan Ding)
-<h2 align="center">🚀 Data Scientist | AI Engineer | Distributed Systems Developer</h2>
+<h1 align="left">😎 Hey! Nice to see you.</h1>
 
-<p align="center">
-Passionate about bridging <b>AI</b> and real-world applications. I love transforming ideas into reality and uncovering insights through data analysis.  
+<p align="Left">
+I'm <b>Kevin Ding</b>, a Developer & AI Engineer live in New Jersey, US.<br>
+  
+Passionate about bridging <b>AI</b> and <b>real-world applications</b>, turning ideas into scalable systems.<br>
 </p>
 
----
+### 🪄 Current Focus
+- 🧠 Learning and applying **algorithms** to improve efficiency in real-world projects  
+- 🧰 Exploring and experimenting with **new AI tools and frameworks**  
+- ⚙️ Developing **large-scale, high-concurrency data transmission systems**  
+- 🏗️ Studying and building **AI infrastructure** for scalable deployment  
+- 💡 Enjoying **writing patents** and turning creative ideas into real innovations
+- 
+### 🧰 Things I Code With
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<table width="100%">
+  <tr>
+    <th width="50%">🧠 Programming Languages</th>
+    <th width="50%">🤖 AI & Data Science</th>
+  </tr>
+  <tr>
+    <td align="center" style="padding:25px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="80"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="80"/> 
+    </td>
+    <td align="center" style="padding:25px;">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="80"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="80"/> 
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="80"/> 
+    </td>
+  </tr>
+
+  <tr>
+    <th>☁️ DevOps & Cloud</th>
+    <th>🗄️ Databases</th>
+  </tr>
+  <tr>
+    <td align="center" style="padding:25px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="80"/> 
+    </td>
+    <td align="center" style="padding:25px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="80"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="80"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="80"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchdb/couchdb-original.svg" width="80"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="80"/> 
+    </td>
+  </tr>
+
+  <tr>
+    <th>💻 OS & Tools</th>
+    <th>🔬 Visualization & Automation</th>
+  </tr>
+  <tr>
+    <td align="center" style="padding:25px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="80"/> 
+    </td>
+    <td align="center" style="padding:25px;">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="80"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="80"/> 
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="80"/> 
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🧠 My Repos
 
@@ -17,18 +85,4 @@ Passionate about bridging <b>AI</b> and real-world applications. I love transfor
 | 🧩 [Algorithm Lab](https://github.com/yourrepo)             | Solving **LeetCode** and exploring classic algorithms and data structures           | Python · C++ · Problem Solving     |
 | 🏗️ [AI Infra Notes](https://github.com/yourrepo)            | Learning and building **AI Infra**: model serving, scaling, and deployment systems | Docker · Kubernetes · Ray · MLflow |
 
----
 
-### 🪄 Current Focus
-- 🧩 Advancing **AI/ML pipelines** and model deployment workflows  
-- 🖼️ Exploring **generative imaging** and diffusion-based creativity  
-- 📱 Building **cross-platform applications** integrating cloud and edge computing  
-- ⚙️ Engineering **AI infrastructure** for scalability and performance  
-
----
-
-<p align="center">
-📫 <b>Connect:</b>  
-<a href="https://www.linkedin.com/in/yuan-ding-770a0b107">LinkedIn</a> · 
-<a href="https://dingkevin.com">Personal Site</a> · 
-</p>
