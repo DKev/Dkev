@@ -12,7 +12,7 @@ Passionate about bridging <b>AI</b> and real-world applications. I love transfor
 | Repo                                                        | Description                                                                         | Tech Stack                         |
 | ----------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------- |
 | 🧩 [Algorithm Lab](https://github.com/yourrepo)             | Solving **LeetCode** and exploring classic algorithms and data structures           | Python · C++ · Problem Solving     |
-| 🏗️ [AI Infrastructure Notes](https://github.com/yourrepo)   | Learning and building **AI Infra** — model serving, scaling, and deployment systems | Docker · Kubernetes · Ray · MLflow |
+| 🏗️ [AI Infra Notes](https://github.com/yourrepo)            | Learning and building **AI Infra**: model serving, scaling, and deployment systems | Docker · Kubernetes · Ray · MLflow |
 
 ---
 
